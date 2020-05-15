@@ -1,72 +1,69 @@
 {
-   "City":{
+  Cities:[ {
         "Name":"Mumbai" ,   
-        "Position": {
-            "Longitude": 19.076090,
-            "Latitude": 72.877426
-    }
+         "Longitude": 19.076090,
+          "Latitude": 72.877426
+    
     },
-   "City":{
+   {
           "Name":"Delhi",
-        "Position": {
-            "Longitude": 28.644800,
-            "Latitude": 77.216721
-    }
+           "Longitude": 28.644800,
+           "Latitude": 77.216721
     },
-     "City":{
+ 
         "Name":"Chennai",
-        "Position": {
-            "Longitude": 13.067439,
-            "Latitude": 80.237617
-        }
+         "Longitude": 13.067439,
+         "Latitude": 80.237617
+
     },
-    "City": {
+   {
          "Name":"Ahmedabad",
-        "Position": {
+   
             "Longitude": 23.033863,
             "Latitude": 72.585022
-        }
+     
     },
-   "City": {
+   {
         "Name":"Hyderabad",
-        "Position": {
+
             "Longitude": 17.387140,
             "Latitude": 78.491684
-        }
+
     },
-   "City": {
+{
          "Name":"Kannur",
-        "Position": {
+    
             "Longitude": 11.874477,
             "Latitude": 75.370369
-        }
+     
     },
-   "City":  {
+ {
          "Name":"Bengaluru",
-        "Position": {
+
             "Longitude": 12.972442,
             "Latitude": 77.580643
-        }
+
     },
-    "City": {
+{
          "Name":"Kolkata",
-        "Position": {
+
             "Longitude": 	22.572645,
             "Latitude": 88.363892
-        }
+
     },
-   "City": {
+ {
          "Name":"Pune",
-        "Position": {
+
             "Longitude": 	18.516726,
             "Latitude": 73.856255
-        }
+
     },
-    "City": {
+ {
          "Name":"Viluppuram",
-        "Position": {
+
             "Longitude":11.945960,
             "Latitude": 79.497414
-        }
+
     }
+          ]
 }
