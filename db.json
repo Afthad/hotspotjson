@@ -1,70 +1,70 @@
 {
    
-   "Cities":[
+   "cities":[
    {
-        "Name":"Mumbai" ,   
-         "Longitude": 19.076090,
-          "Latitude": 72.877426
+        "name":"Mumbai" ,   
+         "longitude": 19.076090,
+          "latitude": 72.877426
     
     },
    {
-          "Name":"Delhi",
-           "Longitude": 28.644800,
-           "Latitude": 77.216721
+          "name":"Delhi",
+           "longitude": 28.644800,
+           "latitude": 77.216721
     },
     {
-        "Name":"Chennai",
-         "Longitude": 13.067439,
-         "Latitude": 80.237617
+        "name":"Chennai",
+         "longitude": 13.067439,
+         "latitude": 80.237617
 
     },
    {
-         "Name":"Ahmedabad",
+         "name":"Ahmedabad",
    
-            "Longitude": 23.033863,
-            "Latitude": 72.585022
+            "longitude": 23.033863,
+            "latitude": 72.585022
      
     },
    {
-        "Name":"Hyderabad",
+        "name":"Hyderabad",
 
-            "Longitude": 17.387140,
-            "Latitude": 78.491684
+            "longitude": 17.387140,
+            "latitude": 78.491684
 
     },
 {
-         "Name":"Kannur",
+         "name":"Kannur",
     
-            "Longitude": 11.874477,
-            "Latitude": 75.370369
+            "longitude": 11.874477,
+            "latitude": 75.370369
      
     },
  {
-         "Name":"Bengaluru",
+         "name":"Bengaluru",
 
-            "Longitude": 12.972442,
-            "Latitude": 77.580643
+            "longitude": 12.972442,
+            "latitude": 77.580643
 
     },
 {
-         "Name":"Kolkata",
+         "name":"Kolkata",
 
-            "Longitude": 	22.572645,
-            "Latitude": 88.363892
-
-    },
- {
-         "Name":"Pune",
-
-            "Longitude": 	18.516726,
-            "Latitude": 73.856255
+            "longitude": 	22.572645,
+            "latitude": 88.363892
 
     },
  {
-         "Name":"Viluppuram",
+         "name":"Pune",
 
-            "Longitude":11.945960,
-            "Latitude": 79.497414
+            "longitude": 	18.516726,
+            "latitude": 73.856255
+
+    },
+ {
+         "name":"Viluppuram",
+
+            "longitude":11.945960,
+            "latitude": 79.497414
 
     }
 ]
