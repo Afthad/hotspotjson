@@ -1,5 +1,5 @@
 {
-  "Cities":{ {
+   {
         "Name":"Mumbai" ,   
          "Longitude": 19.076090,
           "Latitude": 72.877426
@@ -65,5 +65,5 @@
             "Latitude": 79.497414
 
     }
-}
+
 }
