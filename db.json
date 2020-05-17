@@ -3,33 +3,33 @@
    "cities":[
       {
          "name":"Mumbai",
-         "longitude":19.076090,
-         "latitude":72.877426
+         "longitude":72.877426,
+         "latitude":19.076090
       },
       {
          "name":"Delhi",
-         "longitude":28.644800,
-         "latitude":77.216721
+         "longitude":77.216721,
+         "latitude":28.644800
       },
       {
          "name":"Chennai",
-         "longitude":13.067439,
-         "latitude":80.237617
+         "longitude":80.237617,
+         "latitude":13.067439
       },
       {
          "name":"Ahmedabad",
-         "longitude":23.033863,
-         "latitude":72.585022
+         "longitude":72.585022,
+         "latitude":23.033863
       },
       {
          "name":"Hyderabad",
-         "longitude":17.458461,
-         "latitude":78.372452
+         "longitude":78.372452,
+         "latitude":17.458461
       },
       {
          "name":"Kannur",
-         "longitude":11.874477,
-         "latitude":75.370369
+         "longitude":75.370369,
+         "latitude":11.874477
       },
       {
          "name":"Bengaluru",
@@ -38,18 +38,18 @@
       },
       {
          "name":"Kolkata",
-         "longitude":22.572645,
-         "latitude":88.363892
+         "longitude":88.363892,
+         "latitude":22.572645
       },
       {
          "name":"Pune",
-         "longitude":18.516726,
-         "latitude":73.856255
+         "longitude":73.856255,
+         "latitude":18.516726
       },
       {
          "name":"Viluppuram",
-         "longitude":11.945960,
-         "latitude":79.497414
+         "longitude":79.497414,
+         "latitude":11.945960
       }
    ]
 }
