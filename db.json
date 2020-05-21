@@ -1,4 +1,3 @@
-
 {
    "cities":[
       {
@@ -49,9 +48,9 @@
       {
          "name":"Chengalpattu",
          "longitude":79.975662,
-         "latitude":	12.693933
+         "latitude":12.693933
       },
-       {
+      {
          "name":"Kanchipuram",
          "longitude":79.703644,
          "latitude":12.834174
@@ -59,47 +58,47 @@
       {
          "name":"Tiruvallur",
          "longitude":79.894005,
-         "latitude":	13.144443
+         "latitude":13.144443
       },
-         {
+      {
          "name":"Madurai",
          "longitude":78.121719,
-         "latitude":	9.939093
+         "latitude":9.939093
       },
-           {
+      {
          "name":"Tiruppur",
          "longitude":77.348045,
-         "latitude":	11.110695
+         "latitude":11.110695
       },
-              {
+      {
          "name":"Ranipet",
          "longitude":79.333466,
-         "latitude":	12.932063
+         "latitude":12.932063
       },
-              {
+      {
          "name":"Thanjavur",
          "longitude":79.137825,
-         "latitude":	10.786999
+         "latitude":10.786999
       },
-              {
+      {
          "name":"Namakkal",
          "longitude":78.171158,
-         "latitude":	11.229592
+         "latitude":11.229592
       },
-            {
+      {
          "name":"Virudhunagar",
-         "longitude":	77.951431,
-         "latitude":	9.587209
+         "longitude":77.951431,
+         "latitude":9.587209
       },
-           {
+      {
          "name":"Vellore",
-         "longitude":	79.146881,
-         "latitude":	12.934968
+         "longitude":79.146881,
+         "latitude":12.934968
       },
-          {
+      {
          "name":"Thiruvarur",
-         "longitude":	79.6368,
-         "latitude":	10.77269
-      },
+         "longitude":79.6368,
+         "latitude":10.77269
+      }
    ]
 }
