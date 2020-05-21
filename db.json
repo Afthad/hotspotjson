@@ -99,6 +99,11 @@
          "name":"Thiruvarur",
          "longitude":79.6368,
          "latitude":10.77269
+      },
+      {
+         "name":"Kottayam",
+         "longitude":76.522171,
+         "latitude":9.591441
       }
    ]
 }
